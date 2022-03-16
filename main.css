@@ -1,0 +1,60 @@
+body{
+    background-color: rgb(143, 92, 92);
+}
+
+.btn-rec{
+    transition: all 2s;
+    padding: 30px;
+    border: none;
+    background-color: aqua;
+    display: block;
+    margin: 300px auto;
+    border-radius: 5px;
+   
+}
+
+.btn{
+    display: block;
+    margin: 10px auto 300px 5px;
+}
+
+
+
+.car{
+    background-image: url("./images/giphy.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.met{
+    background-image: url("./images/metorit.mp4");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.www{
+    background-image: url("./images/city.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.build{
+    background-image: url("./images/TyED.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.future{
+    background-image: url("./images/future.htm");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.tokyo{
+    background-image: url("./images/motivation07.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
